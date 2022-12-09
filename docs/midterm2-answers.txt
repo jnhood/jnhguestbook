@@ -1,3 +1,5 @@
 here are all my answers
 3-2) No
 3-3) you have to commit your changes, then push them to sync them to the GitHub.
+3-7) No
+3-8) You have to go into replit and pull your changes. 

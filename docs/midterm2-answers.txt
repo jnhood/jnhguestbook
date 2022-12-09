@@ -1,2 +1,3 @@
 here are all my answers
-added a new answer!
+3-2) No
+3-3) you have to commit your changes, then push them to sync them to the GitHub.

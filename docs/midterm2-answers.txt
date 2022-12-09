@@ -4,3 +4,6 @@ here are all my answers
 3-7) No
 3-8) You have to go into replit and pull your changes. 
 this is the last line!
+3-12) It means that the changes in replit are behind the GitHub. 
+3-13) it throws a confilt error.
+3-14) No, I still just get an error. 
